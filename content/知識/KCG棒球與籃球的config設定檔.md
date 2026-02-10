@@ -16,11 +16,12 @@ date: 2026-02-03
   - 知識
 別稱:
 相關:
+  - no
 備註: ken主持，裡面有些內容須要回去重新看內容再做筆記
 autosync-database:
   - ob backup
-NotionID-ob backup: 30365ef6-e0ed-819d-a30e-db7d7bc0943f
-link-ob backup: https://www.notion.so/KCG-config-30365ef6e0ed819da30edb7d7bc0943f
+NotionID-ob backup: 30365ef6-e0ed-8109-9bf9-eb482270ae79
+link-ob backup: https://www.notion.so/KCG-config-30365ef6e0ed81099bf9eb482270ae79
 ---
 
 s84s
