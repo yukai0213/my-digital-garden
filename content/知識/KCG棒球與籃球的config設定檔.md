@@ -8,8 +8,7 @@ date: 2026-02-03
   - 體育賽事
   - 設定
   - 軟體
-狀態:
-  - 完成
+狀態: 完成
 標籤:
   - 設定
   - 程式操作
@@ -20,8 +19,8 @@ date: 2026-02-03
 備註: ken主持，裡面有些內容須要回去重新看內容再做筆記
 autosync-database:
   - ob backup
-NotionID-ob backup: 30365ef6-e0ed-8109-9bf9-eb482270ae79
-link-ob backup: https://www.notion.so/KCG-config-30365ef6e0ed81099bf9eb482270ae79
+NotionID-ob backup: 30365ef6-e0ed-8167-8908-d4cf64a049b5
+link-ob backup: https://www.notion.so/KCG-config-30365ef6e0ed81678908d4cf64a049b5
 ---
 
 s84s
