@@ -17,6 +17,10 @@ date: 2026-02-03
 別稱:
 相關:
 備註: ken主持，裡面有些內容須要回去重新看內容再做筆記
+autosync-database:
+  - ob backup
+NotionID-ob backup: 30365ef6-e0ed-81ed-a836-c2d9d5cda399
+link-ob backup: https://www.notion.so/KCG-config-30365ef6e0ed81eda836c2d9d5cda399
 ---
 
 s84s
